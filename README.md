@@ -141,6 +141,7 @@ int main()
 
 <img width="513" height="78" alt="image" src="https://github.com/user-attachments/assets/8ae9439b-9766-48a6-9664-dc95504149d4" />
 
+https://youtu.be/nqOll1Igpo4
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
